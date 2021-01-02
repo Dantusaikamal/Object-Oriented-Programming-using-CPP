@@ -1,3 +1,4 @@
+//Example program to demonstrate functuinsy
 #include <iostream>
 using namespace std;
 
