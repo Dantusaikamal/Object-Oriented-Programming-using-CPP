@@ -34,7 +34,7 @@ int main(){
     cout<<"\n\n+++++++++++++++++++++++++++++++++++++++++++++++\n";
     cout<<"The information of 3 students has been saved.";
     cout<<"\n+++++++++++++++++++++++++++++++++++++++++++++++\n";
-    for(i=0; i< i++)
+    for(i=0; i<3; i++)
         stud[i].display_data(i);
     return 0;
 }
