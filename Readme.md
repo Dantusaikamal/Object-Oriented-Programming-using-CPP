@@ -4,7 +4,7 @@ This repository contains my Lab programs. I've included the example programs tha
 
 Soon I'll be uploading more programs and explainatory tutorials. Feel free to contribute to any modules. Look at contribution.md to find out more how you can contribute to this repository!
 
-Here's the course content: 
+**Here's the course content:**
 
 ## Module 0
 C++ Basics: Structure of a C++ program, Data types, Declaration of variables, Expressions, Operators, Operator Precedence, Evaluation of expressions, Type conversions, Pointers, Arrays, Pointers and Arrays, Strings, Structures, References. Flow control statement- if, switch, while, for, do, break, continue, goto statements. Functions - Scope of variables, Parameter passing, Default arguments, inline functions, Recursive functions, Pointers to functions. Dynamic memory allocation and de-allocation operators-new and delete, Preprocessor directives.
